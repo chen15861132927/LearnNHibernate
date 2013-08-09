@@ -1,0 +1,15 @@
+E:\dev\dotnet\study\NHibernate\MyWorkShop\MyWorkShop.Model\bin\Debug\MyWorkShop.Model.dll
+E:\dev\dotnet\study\NHibernate\MyWorkShop\MyWorkShop.Model\bin\Debug\MyWorkShop.Model.pdb
+E:\dev\dotnet\study\NHibernate\MyWorkShop\MyWorkShop.Model\obj\Debug\ResolveAssemblyReference.cache
+E:\dev\dotnet\study\NHibernate\MyWorkShop\MyWorkShop.Model\obj\Debug\MyWorkShop.Model.dll
+E:\dev\dotnet\study\NHibernate\MyWorkShop\MyWorkShop.Model\obj\Debug\MyWorkShop.Model.pdb
+E:\dev\dotnet\study\NHibernate\博客园\MyWorkShop\MyWorkShop.Model\bin\Debug\MyWorkShop.Model.dll
+E:\dev\dotnet\study\NHibernate\博客园\MyWorkShop\MyWorkShop.Model\bin\Debug\MyWorkShop.Model.pdb
+E:\dev\dotnet\study\NHibernate\博客园\MyWorkShop\MyWorkShop.Model\obj\Debug\ResolveAssemblyReference.cache
+E:\dev\dotnet\study\NHibernate\博客园\MyWorkShop\MyWorkShop.Model\obj\Debug\MyWorkShop.Model.dll
+E:\dev\dotnet\study\NHibernate\博客园\MyWorkShop\MyWorkShop.Model\obj\Debug\MyWorkShop.Model.pdb
+D:\WPF\MyWorkShop_QueryOver\MyWorkShop\MyWorkShop.Model\bin\Debug\MyWorkShop.Model.dll
+D:\WPF\MyWorkShop_QueryOver\MyWorkShop\MyWorkShop.Model\bin\Debug\MyWorkShop.Model.pdb
+D:\WPF\MyWorkShop_QueryOver\MyWorkShop\MyWorkShop.Model\obj\Debug\MyWorkShop.Model.csprojResolveAssemblyReference.cache
+D:\WPF\MyWorkShop_QueryOver\MyWorkShop\MyWorkShop.Model\obj\Debug\MyWorkShop.Model.dll
+D:\WPF\MyWorkShop_QueryOver\MyWorkShop\MyWorkShop.Model\obj\Debug\MyWorkShop.Model.pdb

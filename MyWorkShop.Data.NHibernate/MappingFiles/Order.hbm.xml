@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+            assembly="MyWorkShop.Model"
+            namespace="MyWorkShop.Model.Entities">
+  <class name="Order" table="MyWorkShop_Order">
+    <id name="Id">
+      <generator class="guid.comb" />
+    </id>
+    <many-to-one name="Customer" class ="Customer" column="CustomerId" not-null="true" foreign-key="MyWorkShop_FK_Order_Customer"/>
+    <property name="OrderedDateTime" type="datetime" not-null="true"/>
+    <!--默认为:DECIMAL(19,5)-->
+    <property name="Amount" type="Decimal"/>
+  </class>
+</hibernate-mapping>

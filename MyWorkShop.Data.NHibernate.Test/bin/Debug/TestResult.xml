@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="E:\dev\dotnet\study\NHibernate\博客园\MyWorkShop\MyWorkShop.Data.NHibernate.Test\bin\Debug\MyWorkShop.Data.NHibernate.Test.dll" total="17" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2011-05-11" time="17:58:06">
+  <environment nunit-version="2.5.10.11092" clr-version="2.0.50727.4016" os-version="Microsoft Windows NT 6.0.6002 Service Pack 2" platform="Win32NT" cwd="C:\Program Files\NUnit 2.5.10\bin\net-2.0" machine-name="DYF2008" user="Administrator" user-domain="DYF2008" />
+  <culture-info current-culture="zh-CN" current-uiculture="zh-CN" />
+  <test-suite type="Assembly" name="E:\dev\dotnet\study\NHibernate\博客园\MyWorkShop\MyWorkShop.Data.NHibernate.Test\bin\Debug\MyWorkShop.Data.NHibernate.Test.dll" executed="True" result="Success" success="True" time="0.687" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="MyWorkShop" executed="True" result="Success" success="True" time="0.687" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Data" executed="True" result="Success" success="True" time="0.686" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="NHibernate" executed="True" result="Success" success="True" time="0.684" asserts="0">
+                <results>
+                  <test-suite type="SetUpFixture" name="Test" executed="True" result="Success" success="True" time="0.684" asserts="0">
+                    <results>
+                      <test-suite type="Namespace" name="DAOTests" executed="True" result="Success" success="True" time="0.675" asserts="0">
+                        <results>
+                          <test-suite type="TestFixture" name="CustomerDAOTest" executed="True" result="Success" success="True" time="0.195" asserts="0">
+                            <results>
+                              <test-case name="MyWorkShop.Data.NHibernate.Test.DAOTests.CustomerDAOTest.Create" executed="True" result="Success" success="True" time="0.025" asserts="5" />
+                              <test-case name="MyWorkShop.Data.NHibernate.Test.DAOTests.CustomerDAOTest.Delete" executed="True" result="Success" success="True" time="0.030" asserts="2" />
+                              <test-case name="MyWorkShop.Data.NHibernate.Test.DAOTests.CustomerDAOTest.GetByAddress" executed="True" result="Success" success="True" time="0.034" asserts="6" />
+                              <test-case name="MyWorkShop.Data.NHibernate.Test.DAOTests.CustomerDAOTest.GetByLikeName" executed="True" result="Success" success="True" time="0.030" asserts="3" />
+                              <test-case name="MyWorkShop.Data.NHibernate.Test.DAOTests.CustomerDAOTest.GetByName" executed="True" result="Success" success="True" time="0.032" asserts="7" />
+                              <test-case name="MyWorkShop.Data.NHibernate.Test.DAOTests.CustomerDAOTest.Update" executed="True" result="Success" success="True" time="0.028" asserts="5" />
+                            </results>
+                          </test-suite>
+                          <test-suite type="TestFixture" name="OrderDAOTest" executed="True" result="Success" success="True" time="0.475" asserts="0">
+                            <results>
+                              <test-case name="MyWorkShop.Data.NHibernate.Test.DAOTests.OrderDAOTest.Create" executed="True" result="Success" success="True" time="0.029" asserts="5" />
+                              <test-case name="MyWorkShop.Data.NHibernate.Test.DAOTests.OrderDAOTest.GetByAmount" executed="True" result="Success" success="True" time="0.040" asserts="6" />
+                              <test-case name="MyWorkShop.Data.NHibernate.Test.DAOTests.OrderDAOTest.GetByCustomerName" executed="True" result="Success" success="True" time="0.046" asserts="8" />
+                              <test-case name="MyWorkShop.Data.NHibernate.Test.DAOTests.OrderDAOTest.GetByCustomerNameViaAlias" executed="True" result="Success" success="True" time="0.043" asserts="5" />
+                              <test-case name="MyWorkShop.Data.NHibernate.Test.DAOTests.OrderDAOTest.GetCustomerIdAndTotalAmountDTOs" executed="True" result="Success" success="True" time="0.038" asserts="5" />
+                              <test-case name="MyWorkShop.Data.NHibernate.Test.DAOTests.OrderDAOTest.GetCustomerNameAndTotalAmountDTOs" executed="True" result="Success" success="True" time="0.047" asserts="9" />
+                              <test-case name="MyWorkShop.Data.NHibernate.Test.DAOTests.OrderDAOTest.GetMaxAmountOrder" executed="True" result="Success" success="True" time="0.038" asserts="5" />
+                              <test-case name="MyWorkShop.Data.NHibernate.Test.DAOTests.OrderDAOTest.GetOrderCount" executed="True" result="Success" success="True" time="0.036" asserts="4" />
+                              <test-case name="MyWorkShop.Data.NHibernate.Test.DAOTests.OrderDAOTest.GetOrderDTOById" executed="True" result="Success" success="True" time="0.038" asserts="6" />
+                              <test-case name="MyWorkShop.Data.NHibernate.Test.DAOTests.OrderDAOTest.GetOrderDTOs" executed="True" result="Success" success="True" time="0.042" asserts="16" />
+                              <test-case name="MyWorkShop.Data.NHibernate.Test.DAOTests.OrderDAOTest.GetOrderDTOsByPage" executed="True" result="Success" success="True" time="0.050" asserts="13" />
+                            </results>
+                          </test-suite>
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

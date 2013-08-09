@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1019]E:\dev\dotnet\study\NHibernate\MyWorkShop\MyWorkShop.Data.NHibernate.Test\bin\Debug\MyWorkShop.Data.NHibernate.Test.dll</TopNode>
+  <SelectedNode>[0-1000]MyWorkShop.Data.NHibernate.Test.TestContext</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1019]E:\dev\dotnet\study\NHibernate\MyWorkShop\MyWorkShop.Data.NHibernate.Test\bin\Debug\MyWorkShop.Data.NHibernate.Test.dll" Expanded="true" />
+    <Node UniqueName="[0-1020]MyWorkShop" Expanded="true" />
+    <Node UniqueName="[0-1021]MyWorkShop.Data" Expanded="true" />
+    <Node UniqueName="[0-1022]MyWorkShop.Data.NHibernate" Expanded="true" />
+    <Node UniqueName="[0-1000]MyWorkShop.Data.NHibernate.Test.TestContext" Expanded="true" />
+    <Node UniqueName="[0-1024]MyWorkShop.Data.NHibernate.Test.DAOTests" Expanded="true" />
+    <Node UniqueName="[0-1001]MyWorkShop.Data.NHibernate.Test.DAOTests.CustomerDAOTest" Expanded="true" />
+    <Node UniqueName="[0-1008]MyWorkShop.Data.NHibernate.Test.DAOTests.OrderDAOTest" Expanded="true" />
+  </Nodes>
+</VisualState>
